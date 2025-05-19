@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -70,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0112-path-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
