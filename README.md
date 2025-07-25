@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2083-three-divisors](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/2083-three-divisors) |
 ## String
 |  |
 | ------- |
@@ -98,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-students-and-examinations](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1837-daily-leads-and-partners](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/1837-daily-leads-and-partners) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
