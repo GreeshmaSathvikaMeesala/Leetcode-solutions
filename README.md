@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-project-employees-i](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/1161-project-employees-i) |
 | [1174-sales-analysis-iii](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/1174-sales-analysis-iii) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1268-market-analysis-i](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/1268-market-analysis-i) |
 | [1301-reformat-department-table](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/1301-reformat-department-table) |
 | [1415-students-and-examinations](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/1462-list-the-products-ordered-in-a-period) |
