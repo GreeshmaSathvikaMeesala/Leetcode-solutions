@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -117,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2288-count-operations-to-obtain-zero](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
