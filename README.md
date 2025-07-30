@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2083-three-divisors](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/2083-three-divisors) |
+| [2288-count-operations-to-obtain-zero](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 ## String
 |  |
 | ------- |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/2083-three-divisors) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
