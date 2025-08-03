@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0067-add-binary) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2083-three-divisors](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/2083-three-divisors) |
 | [2288-count-operations-to-obtain-zero](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0067-add-binary) |
 | [2288-count-operations-to-obtain-zero](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 ## Counting
 |  |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
