@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Stack
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Linked List
 |  |
 | ------- |
@@ -160,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0621-task-scheduler) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
