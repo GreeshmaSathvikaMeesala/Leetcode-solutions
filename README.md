@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Math
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Binary Search
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0621-task-scheduler) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
