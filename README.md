@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0621-task-scheduler](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Math
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0202-happy-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2083-three-divisors](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/2083-three-divisors) |
 | [2288-count-operations-to-obtain-zero](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
