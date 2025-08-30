@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0202-happy-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2083-three-divisors](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/2083-three-divisors) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
