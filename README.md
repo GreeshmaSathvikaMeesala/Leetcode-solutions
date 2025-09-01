@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0036-valid-sudoku) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
