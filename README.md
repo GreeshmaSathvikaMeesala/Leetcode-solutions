@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0621-task-scheduler](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/1975-minimum-distance-to-the-target-element) |
 ## Binary Search
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
