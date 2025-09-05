@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
