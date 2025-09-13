@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0125-valid-palindrome) |
