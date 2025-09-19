@@ -12,6 +12,7 @@ class Solution {
             }
             if(j==b){
                 return i;
+                
             }
         }
         return -1;
