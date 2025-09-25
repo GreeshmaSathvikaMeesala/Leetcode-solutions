@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [1848-sum-of-unique-elements](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0621-task-scheduler](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [1848-sum-of-unique-elements](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/1975-minimum-distance-to-the-target-element) |
 ## Binary Search
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [1848-sum-of-unique-elements](https://github.com/GreeshmaSathvikaMeesala/Leetcode-solutions/tree/master/1848-sum-of-unique-elements) |
 ## Linked List
 |  |
 | ------- |
